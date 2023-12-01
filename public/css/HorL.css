@@ -1,0 +1,19 @@
+.container{
+    border: 4px black solid;
+    display: flex;
+    flex-direction: ;
+    /* justify-content: center; */
+    /* align-content: center; */
+    width: 500px; 
+    height: 500px;
+}
+.guess-box{
+    
+display: flex;
+}
+.submit-button{
+    display:flex;
+    flex-direction: ;
+    height: 20px;
+
+}
